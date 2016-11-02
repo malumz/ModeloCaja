@@ -1,0 +1,21 @@
+/** 
+Escribir el CSS necesario aqui
+*/
+div {
+background: #FFD6B3;
+width: 640px;
+padding: 1mm 0.1mm 5mm 8mm;
+margin: 10px;
+border: 8px solid #C035FC;
+height: 60px;
+}
+
+div p {
+    text-align: center;
+	background: white;
+	border-style: dotted;
+	border-color: green;
+	width: 600px;
+	padding: 4px;
+	margin: 15px;
+}
